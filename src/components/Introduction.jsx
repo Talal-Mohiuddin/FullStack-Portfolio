@@ -6,7 +6,7 @@ const IntroSection = () => {
     <section>
       <div className="container m-auto px-10 pt-12 pb-12 sm:pt-20 flex flex-col sm:flex-row gap-6 text-center sm:text-left">
         <div className="md:mt-36">
-          <h2 className="font-bold text-4xl">Hello, I'm Iaroslav,</h2>
+          <h2 className="font-bold text-4xl">Hello, I'm Talal,</h2>
           <div>
             <h2 className="font-bold text-4xl mt-1 gradiant-text">
               frontend developer
@@ -14,9 +14,10 @@ const IntroSection = () => {
           </div>
           <div>
             <p className="mt-4 text-gray-400">
-              Former digital-marketing specialist, seeking to apply competent
-              development skills with focus on collaboration, communication, and
-              passion
+              With a background in CS, I bring a unique
+              perspective to web development. My focus is on creating efficient,
+              scalable, and user-friendly web applications. I'm passionate about
+              continuous learning and collaboration.
             </p>
             <button className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
               Download resume
