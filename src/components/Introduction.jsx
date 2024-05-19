@@ -15,9 +15,7 @@ const IntroSection = () => {
           <div>
             <p className="mt-4 text-gray-400">
               With a background in CS, I bring a unique
-              perspective to web development. My focus is on creating efficient,
-              scalable, and user-friendly web applications. I'm passionate about
-              continuous learning and collaboration.
+              perspective to web development. My focus is on creating efficient and user-friendly web applications.
             </p>
             <button className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
               Download resume
